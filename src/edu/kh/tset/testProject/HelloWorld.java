@@ -10,13 +10,7 @@ public class HelloWorld {
 		System.out.println(1 + 2); // 문자열이 아니므로, 연산된 값이 나옴
 
 		System.out.println("14 * 19 =" + 266);
+		
+		System.out.println("Git Test");
 	}
 }
-
-/*
-Hello World~!
-헬로 월드~!
-123456~!
-1 + 2
-3
-*/
